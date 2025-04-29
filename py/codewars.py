@@ -1,4 +1,4 @@
-#Just some of my code using Copilot and my idea.
+#Just some of my code using my idea and Copilot.
 
 def count_bits(n):
     return bin(n).count('1')
