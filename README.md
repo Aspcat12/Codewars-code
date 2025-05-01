@@ -1,2 +1,2 @@
-# Codewars-code
-just code
+# Codewars
+just some random code
